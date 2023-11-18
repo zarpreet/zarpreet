@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Sarpreet Singh, a passionate coder and tech enthusiast on a perpetual journey of learning and creating. 💻✨
+## 👋 Hello World! I'm Sarpreet Singh, a passionate coder and tech enthusiast on a perpetual journey of learning and creating. 💻✨
 
 ## 🌐 Exploring the realms of Finance and Computer Science at Rutgers University, I'm on a mission to bridge the gap between numbers and code. 🚀
 
