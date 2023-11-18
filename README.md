@@ -1,10 +1,10 @@
-## 👋 Hello World! I'm Sarpreet Singh, a passionate coder and tech enthusiast on a perpetual journey of learning and creating. 💻✨
+#### 👋 Hello World! I'm Sarpreet Singh, a passionate coder and tech enthusiast on a perpetual journey of learning and creating. 💻✨
+  
+- 🌐 Exploring the realms of Finance and Computer Science @Rutgers, I'm on a mission to bridge the gap between numbers and code. 🚀
 
-### 🌐 Exploring the realms of Finance and Computer Science at Rutgers University, I'm on a mission to bridge the gap between numbers and code. 🚀
+- 🧠 With a love for problem-solving and a flair for languages like Java, Python, and C, I'm always up for a coding challenge. 💡
 
-### 🧠 With a love for problem-solving and a flair for languages like Java, Python, and C, I'm always up for a coding challenge. 💡
-
-### 🔍 Currently diving into the fascinating world of Artificial Intelligence, I'm on a quest to unravel the mysteries of data and algorithms. 🤖✨
+- 🔍 Currently diving into the fascinating world of AI, I'm on a quest to unravel the mysteries of data structures and algorithms. 🤖✨
 
 ![](https://komarev.com/ghpvc/?username=zarpreet)
 
