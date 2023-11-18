@@ -1,8 +1,7 @@
-
-#### <div align="right">👋 Hello World! I'm Sarpreet Singh 💻✨‎‎‎‎</div>  ‏‏‎
-<div align="right"> - 🌐 Double Majoring in Finance and Computer Science @Rutgers 🚀</div>  
-<div align="right"> - 🧠 Love for problem-solving and a flair for languages like Java, Python, and C 💡</div>  
-<div align="right"> - 🔍 Currently on a quest to unravel the mysteries of data structures and algorithms. 🤖✨</div>  
+#### <div align="right"> 👋 Hello World! I'm Sarpreet Singh 💻✨‎‎‎‎ </div>‏‏‎
+<div align="right"> - 🌐 Double Majoring in Finance and Computer Science @Rutgers 🚀 </div>
+<div align="right"> - 🧠 Love for problem-solving and languages like Java, Python, and C 💡 </div>
+<div align="right"> - 🔍 On a quest to learn the mysteries of Data Structures and Algorithms 🤖 </div>
 
 <br/>  
 <div align="right">
