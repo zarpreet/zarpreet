@@ -1,10 +1,13 @@
-#### 👋 Hello World! I'm Sarpreet Singh 💻✨‎‎‎‎‏‏‎
-  
-- 🌐 Double Majoring in Finance and Computer Science @Rutgers 🚀
-- 🧠 Love for problem-solving and a flair for languages like Java, Python, and C 💡
-- 🔍 Currently on a quest to unravel the mysteries of data structures and algorithms. 🤖✨
 
-![](https://komarev.com/ghpvc/?username=zarpreet)
+### <div align="right">👋 Hello World! I'm Sarpreet Singh 💻✨‎‎‎‎</div>  ‏‏‎
+<div align="right">- 🌐 Double Majoring in Finance and Computer Science @Rutgers 🚀</div>  
+<div align="right">- 🧠 Love for problem-solving and a flair for languages like Java, Python, and C 💡</div>  
+<div align="right">- 🔍 Currently on a quest to unravel the mysteries of data structures and algorithms. 🤖✨</div>  
+
+<br/>  
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=zarpreet&&style=flat-square" align="center" />
+</div>  
 
 <!--
 **zarpreet/zarpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
